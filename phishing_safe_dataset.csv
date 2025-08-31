@@ -1,0 +1,501 @@
+id,text,label
+1,"Subject: Verify Your Bank Account Now
+
+Dear Customer, We noticed unusual activity on your account. Please confirm your identity to avoid restrictions: http://secure-bank-verify.com/login
+
+Thank you, Your Bank Security Team (variation 1)",1
+2,"Subject: Immediate Action Required: Account Login
+
+Hi, A suspicious login attempt was detected on your PayPal account. Verify your details here: http://paypa1.com/verify-login
+
+PayPal Support (variation 2)",1
+3,"Subject: Your Amazon Package Couldn’t be Delivered
+
+Hello, Your recent order requires verification to be delivered. Click the link to confirm: http://amaz0n-delivery.com/confirm
+
+Amazon Delivery Team (variation 3)",1
+4,"Subject: Facebook Account Alert
+
+Hi, We detected a login attempt from a new device. Confirm it’s you immediately: http://faceb00k-security.com/login
+
+Security Team Facebook (variation 4)",1
+5,"Subject: Subscription Payment Failed
+
+Hello, We couldn’t process your subscription payment. Update your payment info to avoid service interruption: http://netf1ix-billing.com/update
+
+Subscription Services (variation 5)",1
+6,"Subject: DHL Delivery Notification
+
+Dear Customer, Your parcel could not be delivered. Verify your address here to receive it: http://dhl-delivery.com/verify
+
+DHL Customer Support (variation 6)",1
+7,"Subject: Electricity Bill Payment Failed
+
+Hi, Your electricity payment was unsuccessful. Please update your payment method here: http://e-bill-update.com/login
+
+Your Electricity Provider (variation 7)",1
+8,"Subject: Urgent: Account Suspended
+
+Dear User, Your account has been temporarily suspended. Click here to restore access: http://secure-login-now.com/account-verify
+
+Support Team (variation 8)",1
+9,"Subject: Update Your Apple ID Now
+
+Hi, We detected unusual activity on your Apple ID. Verify immediately: http://applleid-update.com/verify
+
+Apple Security (variation 9)",1
+10,"Subject: PayPal Transaction Alert
+
+Hello, Your recent transaction was flagged as suspicious. Confirm it here: http://paypal-secure-login.com/confirm
+
+PayPal Team (variation 10)",1
+11,"Subject: Verify Your Bank Account Now
+
+Dear Customer, We noticed unusual activity on your account. Please confirm your identity to avoid restrictions: http://secure-bank-verify.com/login
+
+Thank you, Your Bank Security Team (variation 11)",1
+12,"Subject: Immediate Action Required: Account Login
+
+Hi, A suspicious login attempt was detected on your PayPal account. Verify your details here: http://paypa1.com/verify-login
+
+PayPal Support (variation 12)",1
+13,"Subject: Your Amazon Package Couldn’t be Delivered
+
+Hello, Your recent order requires verification to be delivered. Click the link to confirm: http://amaz0n-delivery.com/confirm
+
+Amazon Delivery Team (variation 13)",1
+14,"Subject: Facebook Account Alert
+
+Hi, We detected a login attempt from a new device. Confirm it’s you immediately: http://faceb00k-security.com/login
+
+Security Team Facebook (variation 14)",1
+15,"Subject: Subscription Payment Failed
+
+Hello, We couldn’t process your subscription payment. Update your payment info to avoid service interruption: http://netf1ix-billing.com/update
+
+Subscription Services (variation 15)",1
+16,"Subject: DHL Delivery Notification
+
+Dear Customer, Your parcel could not be delivered. Verify your address here to receive it: http://dhl-delivery.com/verify
+
+DHL Customer Support (variation 16)",1
+17,"Subject: Electricity Bill Payment Failed
+
+Hi, Your electricity payment was unsuccessful. Please update your payment method here: http://e-bill-update.com/login
+
+Your Electricity Provider (variation 17)",1
+18,"Subject: Urgent: Account Suspended
+
+Dear User, Your account has been temporarily suspended. Click here to restore access: http://secure-login-now.com/account-verify
+
+Support Team (variation 18)",1
+19,"Subject: Update Your Apple ID Now
+
+Hi, We detected unusual activity on your Apple ID. Verify immediately: http://applleid-update.com/verify
+
+Apple Security (variation 19)",1
+20,"Subject: PayPal Transaction Alert
+
+Hello, Your recent transaction was flagged as suspicious. Confirm it here: http://paypal-secure-login.com/confirm
+
+PayPal Team (variation 20)",1
+21,"Subject: Verify Your Bank Account Now
+
+Dear Customer, We noticed unusual activity on your account. Please confirm your identity to avoid restrictions: http://secure-bank-verify.com/login
+
+Thank you, Your Bank Security Team (variation 21)",1
+22,"Subject: Immediate Action Required: Account Login
+
+Hi, A suspicious login attempt was detected on your PayPal account. Verify your details here: http://paypa1.com/verify-login
+
+PayPal Support (variation 22)",1
+23,"Subject: Your Amazon Package Couldn’t be Delivered
+
+Hello, Your recent order requires verification to be delivered. Click the link to confirm: http://amaz0n-delivery.com/confirm
+
+Amazon Delivery Team (variation 23)",1
+24,"Subject: Facebook Account Alert
+
+Hi, We detected a login attempt from a new device. Confirm it’s you immediately: http://faceb00k-security.com/login
+
+Security Team Facebook (variation 24)",1
+25,"Subject: Subscription Payment Failed
+
+Hello, We couldn’t process your subscription payment. Update your payment info to avoid service interruption: http://netf1ix-billing.com/update
+
+Subscription Services (variation 25)",1
+26,"Subject: DHL Delivery Notification
+
+Dear Customer, Your parcel could not be delivered. Verify your address here to receive it: http://dhl-delivery.com/verify
+
+DHL Customer Support (variation 26)",1
+27,"Subject: Electricity Bill Payment Failed
+
+Hi, Your electricity payment was unsuccessful. Please update your payment method here: http://e-bill-update.com/login
+
+Your Electricity Provider (variation 27)",1
+28,"Subject: Urgent: Account Suspended
+
+Dear User, Your account has been temporarily suspended. Click here to restore access: http://secure-login-now.com/account-verify
+
+Support Team (variation 28)",1
+29,"Subject: Update Your Apple ID Now
+
+Hi, We detected unusual activity on your Apple ID. Verify immediately: http://applleid-update.com/verify
+
+Apple Security (variation 29)",1
+30,"Subject: PayPal Transaction Alert
+
+Hello, Your recent transaction was flagged as suspicious. Confirm it here: http://paypal-secure-login.com/confirm
+
+PayPal Team (variation 30)",1
+31,"Subject: Verify Your Bank Account Now
+
+Dear Customer, We noticed unusual activity on your account. Please confirm your identity to avoid restrictions: http://secure-bank-verify.com/login
+
+Thank you, Your Bank Security Team (variation 31)",1
+32,"Subject: Immediate Action Required: Account Login
+
+Hi, A suspicious login attempt was detected on your PayPal account. Verify your details here: http://paypa1.com/verify-login
+
+PayPal Support (variation 32)",1
+33,"Subject: Your Amazon Package Couldn’t be Delivered
+
+Hello, Your recent order requires verification to be delivered. Click the link to confirm: http://amaz0n-delivery.com/confirm
+
+Amazon Delivery Team (variation 33)",1
+34,"Subject: Facebook Account Alert
+
+Hi, We detected a login attempt from a new device. Confirm it’s you immediately: http://faceb00k-security.com/login
+
+Security Team Facebook (variation 34)",1
+35,"Subject: Subscription Payment Failed
+
+Hello, We couldn’t process your subscription payment. Update your payment info to avoid service interruption: http://netf1ix-billing.com/update
+
+Subscription Services (variation 35)",1
+36,"Subject: DHL Delivery Notification
+
+Dear Customer, Your parcel could not be delivered. Verify your address here to receive it: http://dhl-delivery.com/verify
+
+DHL Customer Support (variation 36)",1
+37,"Subject: Electricity Bill Payment Failed
+
+Hi, Your electricity payment was unsuccessful. Please update your payment method here: http://e-bill-update.com/login
+
+Your Electricity Provider (variation 37)",1
+38,"Subject: Urgent: Account Suspended
+
+Dear User, Your account has been temporarily suspended. Click here to restore access: http://secure-login-now.com/account-verify
+
+Support Team (variation 38)",1
+39,"Subject: Update Your Apple ID Now
+
+Hi, We detected unusual activity on your Apple ID. Verify immediately: http://applleid-update.com/verify
+
+Apple Security (variation 39)",1
+40,"Subject: PayPal Transaction Alert
+
+Hello, Your recent transaction was flagged as suspicious. Confirm it here: http://paypal-secure-login.com/confirm
+
+PayPal Team (variation 40)",1
+41,"Subject: Verify Your Bank Account Now
+
+Dear Customer, We noticed unusual activity on your account. Please confirm your identity to avoid restrictions: http://secure-bank-verify.com/login
+
+Thank you, Your Bank Security Team (variation 41)",1
+42,"Subject: Immediate Action Required: Account Login
+
+Hi, A suspicious login attempt was detected on your PayPal account. Verify your details here: http://paypa1.com/verify-login
+
+PayPal Support (variation 42)",1
+43,"Subject: Your Amazon Package Couldn’t be Delivered
+
+Hello, Your recent order requires verification to be delivered. Click the link to confirm: http://amaz0n-delivery.com/confirm
+
+Amazon Delivery Team (variation 43)",1
+44,"Subject: Facebook Account Alert
+
+Hi, We detected a login attempt from a new device. Confirm it’s you immediately: http://faceb00k-security.com/login
+
+Security Team Facebook (variation 44)",1
+45,"Subject: Subscription Payment Failed
+
+Hello, We couldn’t process your subscription payment. Update your payment info to avoid service interruption: http://netf1ix-billing.com/update
+
+Subscription Services (variation 45)",1
+46,"Subject: DHL Delivery Notification
+
+Dear Customer, Your parcel could not be delivered. Verify your address here to receive it: http://dhl-delivery.com/verify
+
+DHL Customer Support (variation 46)",1
+47,"Subject: Electricity Bill Payment Failed
+
+Hi, Your electricity payment was unsuccessful. Please update your payment method here: http://e-bill-update.com/login
+
+Your Electricity Provider (variation 47)",1
+48,"Subject: Urgent: Account Suspended
+
+Dear User, Your account has been temporarily suspended. Click here to restore access: http://secure-login-now.com/account-verify
+
+Support Team (variation 48)",1
+49,"Subject: Update Your Apple ID Now
+
+Hi, We detected unusual activity on your Apple ID. Verify immediately: http://applleid-update.com/verify
+
+Apple Security (variation 49)",1
+50,"Subject: PayPal Transaction Alert
+
+Hello, Your recent transaction was flagged as suspicious. Confirm it here: http://paypal-secure-login.com/confirm
+
+PayPal Team (variation 50)",1
+51,"Subject: Team Meeting Scheduled
+
+Hi Team, Reminder: Our project update meeting is scheduled for Monday at 11 AM. Please prepare the latest status report.
+
+Project Manager (variation 1)",0
+52,"Subject: Your Flipkart Order Has Been Shipped
+
+Hello, Your order #FB123456 has been shipped and will arrive by September 2. Track your package: https://www.flipkart.com/track-order
+
+Flipkart Team (variation 2)",0
+53,"Subject: Dinner Plan
+
+Hey, Are we still on for dinner tonight at 8 PM? Let me know if you need a change in timing.
+
+Friend (variation 3)",0
+54,"Subject: Your Monthly Account Statement
+
+Dear Customer, Your account statement for August is now available. No action is required. https://www.bankofindia.com/account-statement
+
+Bank of India (variation 4)",0
+55,"Subject: Weekly Newsletter: Tech Updates
+
+Hi Subscriber, Here are the top tech news and updates for this week. Stay informed! https://technewsletter.com/weekly
+
+Tech Newsletter Team (variation 5)",0
+56,"Subject: Flight Booking Confirmed
+
+Hello, Your flight to Hyderabad on Sept 10 has been confirmed. Check your itinerary: https://www.airindia.in/booking
+
+Air India (variation 6)",0
+57,"Subject: Meeting Notes Attached
+
+Hi, Please find the notes from yesterday’s meeting attached. Let me know if you have questions.
+
+Colleague (variation 7)",0
+58,"Subject: Your Spotify Subscription Renewal
+
+Hello, Your Spotify subscription has been renewed successfully. No action is required.
+
+Spotify Team (variation 8)",0
+59,"Subject: Invitation: Webinar on AI Trends
+
+Hi, You are invited to a free webinar on AI trends happening on Sept 15. Register here: https://aiwebinar.com/register
+
+Webinar Team (variation 9)",0
+60,"Subject: Birthday Wishes!
+
+Hey, Wishing you a very happy birthday! Have a great day!
+
+Friend (variation 10)",0
+61,"Subject: Team Meeting Scheduled
+
+Hi Team, Reminder: Our project update meeting is scheduled for Monday at 11 AM. Please prepare the latest status report.
+
+Project Manager (variation 11)",0
+62,"Subject: Your Flipkart Order Has Been Shipped
+
+Hello, Your order #FB123456 has been shipped and will arrive by September 2. Track your package: https://www.flipkart.com/track-order
+
+Flipkart Team (variation 12)",0
+63,"Subject: Dinner Plan
+
+Hey, Are we still on for dinner tonight at 8 PM? Let me know if you need a change in timing.
+
+Friend (variation 13)",0
+64,"Subject: Your Monthly Account Statement
+
+Dear Customer, Your account statement for August is now available. No action is required. https://www.bankofindia.com/account-statement
+
+Bank of India (variation 14)",0
+65,"Subject: Weekly Newsletter: Tech Updates
+
+Hi Subscriber, Here are the top tech news and updates for this week. Stay informed! https://technewsletter.com/weekly
+
+Tech Newsletter Team (variation 15)",0
+66,"Subject: Flight Booking Confirmed
+
+Hello, Your flight to Hyderabad on Sept 10 has been confirmed. Check your itinerary: https://www.airindia.in/booking
+
+Air India (variation 16)",0
+67,"Subject: Meeting Notes Attached
+
+Hi, Please find the notes from yesterday’s meeting attached. Let me know if you have questions.
+
+Colleague (variation 17)",0
+68,"Subject: Your Spotify Subscription Renewal
+
+Hello, Your Spotify subscription has been renewed successfully. No action is required.
+
+Spotify Team (variation 18)",0
+69,"Subject: Invitation: Webinar on AI Trends
+
+Hi, You are invited to a free webinar on AI trends happening on Sept 15. Register here: https://aiwebinar.com/register
+
+Webinar Team (variation 19)",0
+70,"Subject: Birthday Wishes!
+
+Hey, Wishing you a very happy birthday! Have a great day!
+
+Friend (variation 20)",0
+71,"Subject: Team Meeting Scheduled
+
+Hi Team, Reminder: Our project update meeting is scheduled for Monday at 11 AM. Please prepare the latest status report.
+
+Project Manager (variation 21)",0
+72,"Subject: Your Flipkart Order Has Been Shipped
+
+Hello, Your order #FB123456 has been shipped and will arrive by September 2. Track your package: https://www.flipkart.com/track-order
+
+Flipkart Team (variation 22)",0
+73,"Subject: Dinner Plan
+
+Hey, Are we still on for dinner tonight at 8 PM? Let me know if you need a change in timing.
+
+Friend (variation 23)",0
+74,"Subject: Your Monthly Account Statement
+
+Dear Customer, Your account statement for August is now available. No action is required. https://www.bankofindia.com/account-statement
+
+Bank of India (variation 24)",0
+75,"Subject: Weekly Newsletter: Tech Updates
+
+Hi Subscriber, Here are the top tech news and updates for this week. Stay informed! https://technewsletter.com/weekly
+
+Tech Newsletter Team (variation 25)",0
+76,"Subject: Flight Booking Confirmed
+
+Hello, Your flight to Hyderabad on Sept 10 has been confirmed. Check your itinerary: https://www.airindia.in/booking
+
+Air India (variation 26)",0
+77,"Subject: Meeting Notes Attached
+
+Hi, Please find the notes from yesterday’s meeting attached. Let me know if you have questions.
+
+Colleague (variation 27)",0
+78,"Subject: Your Spotify Subscription Renewal
+
+Hello, Your Spotify subscription has been renewed successfully. No action is required.
+
+Spotify Team (variation 28)",0
+79,"Subject: Invitation: Webinar on AI Trends
+
+Hi, You are invited to a free webinar on AI trends happening on Sept 15. Register here: https://aiwebinar.com/register
+
+Webinar Team (variation 29)",0
+80,"Subject: Birthday Wishes!
+
+Hey, Wishing you a very happy birthday! Have a great day!
+
+Friend (variation 30)",0
+81,"Subject: Team Meeting Scheduled
+
+Hi Team, Reminder: Our project update meeting is scheduled for Monday at 11 AM. Please prepare the latest status report.
+
+Project Manager (variation 31)",0
+82,"Subject: Your Flipkart Order Has Been Shipped
+
+Hello, Your order #FB123456 has been shipped and will arrive by September 2. Track your package: https://www.flipkart.com/track-order
+
+Flipkart Team (variation 32)",0
+83,"Subject: Dinner Plan
+
+Hey, Are we still on for dinner tonight at 8 PM? Let me know if you need a change in timing.
+
+Friend (variation 33)",0
+84,"Subject: Your Monthly Account Statement
+
+Dear Customer, Your account statement for August is now available. No action is required. https://www.bankofindia.com/account-statement
+
+Bank of India (variation 34)",0
+85,"Subject: Weekly Newsletter: Tech Updates
+
+Hi Subscriber, Here are the top tech news and updates for this week. Stay informed! https://technewsletter.com/weekly
+
+Tech Newsletter Team (variation 35)",0
+86,"Subject: Flight Booking Confirmed
+
+Hello, Your flight to Hyderabad on Sept 10 has been confirmed. Check your itinerary: https://www.airindia.in/booking
+
+Air India (variation 36)",0
+87,"Subject: Meeting Notes Attached
+
+Hi, Please find the notes from yesterday’s meeting attached. Let me know if you have questions.
+
+Colleague (variation 37)",0
+88,"Subject: Your Spotify Subscription Renewal
+
+Hello, Your Spotify subscription has been renewed successfully. No action is required.
+
+Spotify Team (variation 38)",0
+89,"Subject: Invitation: Webinar on AI Trends
+
+Hi, You are invited to a free webinar on AI trends happening on Sept 15. Register here: https://aiwebinar.com/register
+
+Webinar Team (variation 39)",0
+90,"Subject: Birthday Wishes!
+
+Hey, Wishing you a very happy birthday! Have a great day!
+
+Friend (variation 40)",0
+91,"Subject: Team Meeting Scheduled
+
+Hi Team, Reminder: Our project update meeting is scheduled for Monday at 11 AM. Please prepare the latest status report.
+
+Project Manager (variation 41)",0
+92,"Subject: Your Flipkart Order Has Been Shipped
+
+Hello, Your order #FB123456 has been shipped and will arrive by September 2. Track your package: https://www.flipkart.com/track-order
+
+Flipkart Team (variation 42)",0
+93,"Subject: Dinner Plan
+
+Hey, Are we still on for dinner tonight at 8 PM? Let me know if you need a change in timing.
+
+Friend (variation 43)",0
+94,"Subject: Your Monthly Account Statement
+
+Dear Customer, Your account statement for August is now available. No action is required. https://www.bankofindia.com/account-statement
+
+Bank of India (variation 44)",0
+95,"Subject: Weekly Newsletter: Tech Updates
+
+Hi Subscriber, Here are the top tech news and updates for this week. Stay informed! https://technewsletter.com/weekly
+
+Tech Newsletter Team (variation 45)",0
+96,"Subject: Flight Booking Confirmed
+
+Hello, Your flight to Hyderabad on Sept 10 has been confirmed. Check your itinerary: https://www.airindia.in/booking
+
+Air India (variation 46)",0
+97,"Subject: Meeting Notes Attached
+
+Hi, Please find the notes from yesterday’s meeting attached. Let me know if you have questions.
+
+Colleague (variation 47)",0
+98,"Subject: Your Spotify Subscription Renewal
+
+Hello, Your Spotify subscription has been renewed successfully. No action is required.
+
+Spotify Team (variation 48)",0
+99,"Subject: Invitation: Webinar on AI Trends
+
+Hi, You are invited to a free webinar on AI trends happening on Sept 15. Register here: https://aiwebinar.com/register
+
+Webinar Team (variation 49)",0
+100,"Subject: Birthday Wishes!
+
+Hey, Wishing you a very happy birthday! Have a great day!
+
+Friend (variation 50)",0
